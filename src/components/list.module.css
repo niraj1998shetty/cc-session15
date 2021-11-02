@@ -1,0 +1,13 @@
+.item{
+    display: inline-block;
+    padding: 1rem;
+    width: 200px;
+}
+.button{
+    background-color: red;
+    border: none;
+    padding: 0.25rem 0.5rem;
+    outline: none;
+    color: white;
+    border-radius: 8px;
+}
