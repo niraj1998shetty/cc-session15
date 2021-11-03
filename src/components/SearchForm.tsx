@@ -11,7 +11,7 @@ type SearchFormProps = {
 };
 
 const SearchForm=memo(({onSearchSubmit,onSearchInput,search}:SearchFormProps)=>{
-  console.log("yaanform")
+  //console.log("yaanform")
 return(<>
         <form onSubmit={onSearchSubmit}>
         <InputWithLabel
